@@ -6,7 +6,7 @@ Painel demonstrativo para acompanhamento de lançamentos de boletos condominiais
 Demonstrar como o tratamento de dados e a visualização podem apoiar a leitura de indicadores de gestão condominial. Este protótipo não substitui sistemas contábeis nem utiliza dados reais de clientes.
 
 ## Requisitos atendidos no protótipo
-- Dataset simulado com 250 linhas e mais de 4 colunas.
+- Dataset simulado com 300 linhas e mais de 4 colunas.
 - Tratamento de dados com pandas.
 - Dashboard Plotly com 4 visualizações: barras, linha, pizza e ranking.
 - 4 KPIs: quantidade de registros, taxa paga, taxa atrasada e valor médio.
